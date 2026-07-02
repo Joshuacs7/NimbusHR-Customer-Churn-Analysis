@@ -1,5 +1,8 @@
 NimbusHR Customer Churn Analysis
 Project Overview
+## Dashboard Preview
+
+![NimbusHR Executive Dashboard](images/dashboard-overview.png)
 
 NimbusHR is a fictional B2B SaaS company experiencing slower growth in Monthly Recurring Revenue (MRR). Executive leadership requested a business analysis to identify the drivers of customer churn and recommend strategies to improve customer retention and recurring revenue growth.
 
