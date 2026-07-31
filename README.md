@@ -1,6 +1,6 @@
 # NimbusHR Customer Churn Analysis
 
-![NimbusHR Executive Dashboard](images/dashboard-overview.png)
+![NimbusHR Executive Dashboard](image/dashboard-overview.png)
 
 NimbusHR is a fictional B2B SaaS company experiencing slower growth in Monthly Recurring Revenue (MRR). This end-to-end Data Analytics project analyzes the factors driving customer churn and provides business recommendations to improve customer retention and recurring revenue growth.
 
@@ -78,11 +78,11 @@ An interactive Power BI dashboard was developed to support business decision-mak
 
 ### Customer Analysis
 
-![Customer Analysis](images/Customer-Analysis.png)
+![Customer Analysis](image/Customer-Analysis.png)
 
 ### Churn Analysis
 
-![Churn Analysis](images/Churn-Analysis.png)
+![Churn Analysis](image/Churn-Analysis.png)
 
 ## Key Business Findings
 
