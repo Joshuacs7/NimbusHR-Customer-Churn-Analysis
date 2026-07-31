@@ -4,6 +4,11 @@
 
 NimbusHR is a fictional B2B SaaS company experiencing slower growth in Monthly Recurring Revenue (MRR). This end-to-end Data Analytics project analyzes the factors driving customer churn and provides business recommendations to improve customer retention and recurring revenue growth.
 
+## Project Files
+
+- [Executive Presentation (PDF)](presentation/NimbusHR_Executive_Presentation.pdf)
+- [Power BI Dashboard](dashboards/NimbusHR_Executive_Dashboard.pbix)
+
 ## Business Objective
 
 The analysis focused on answering the following business questions:
